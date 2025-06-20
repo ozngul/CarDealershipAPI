@@ -1,8 +1,9 @@
 
 # 🏁 Getting Started 
-`## git clone https://github.com/Exadus/CarDealershipAPI.git
-## cd CarDealershipAPI
-## ./mvnw spring-boot:run` 
+
+<pre> ```git clone https://github.com/Exadus/CarDealershipAPI.git
+ cd CarDealershipAPI 
+./mvnw spring-boot:run ``` </pre>
 
 # Car Dealership API 🚗
 
