@@ -13,7 +13,7 @@ public class DatabaseConfiguration {
         BasicDataSource ds = new BasicDataSource();
         ds.setUrl("jdbc:mysql://localhost:3306/cardealership");
         ds.setUsername("root");
-        ds.setPassword("ozancan261");
+        ds.setPassword("yearup");
         ds.setDriverClassName("com.mysql.cj.jdbc.Driver");
         return ds;
     }
