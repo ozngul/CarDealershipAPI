@@ -3,7 +3,7 @@
 
 <pre> ```git clone https://github.com/Exadus/CarDealershipAPI.git
  cd CarDealershipAPI 
-./mvnw spring-boot:run ``` </pre>
+./mvnw spring-boot:run``` </pre>
 
 # Car Dealership API 🚗
 
