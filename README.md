@@ -10,7 +10,7 @@ This project is a RESTful Web API for a car dealership built with Java and Sprin
 
 ## 👨‍💻 Developers
 - Umut Tikbas ([@Exaadus](https://github.com/Exaadus))
-- Ozan Gül ([@Ozngul](https://github.com/ozngul)
+- Ozan Gül ([@Ozngul](https://github.com/ozngul))
 
 ## 🚀 Features
 - Full CRUD operations for vehicles
